@@ -1,5 +1,5 @@
 ---
-title: Building Large-Scale Apps
+#Building Large-Scale Apps
 type: guide
 order: 18
 ---

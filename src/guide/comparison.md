@@ -1,5 +1,5 @@
 ---
-title: Comparison with Other Frameworks
+#Comparison with Other Frameworks
 type: guide
 order: 19
 ---

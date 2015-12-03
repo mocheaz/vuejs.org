@@ -1,5 +1,5 @@
 ---
-title: Installation
+#Installation
 type: guide
 order: 0
 vue_version: 1.0.10

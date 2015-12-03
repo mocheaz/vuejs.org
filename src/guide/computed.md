@@ -1,5 +1,5 @@
 ---
-title: Computed Properties
+#Computed Properties
 type: guide
 order: 5
 ---

@@ -1,5 +1,5 @@
 ---
-title: Components
+#Components
 type: guide
 order: 12
 ---

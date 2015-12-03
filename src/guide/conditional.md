@@ -1,5 +1,5 @@
 ---
-title: Conditional Rendering
+#Conditional Rendering
 type: guide
 order: 7
 ---

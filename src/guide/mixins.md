@@ -1,5 +1,5 @@
 ---
-title: Mixins
+#Mixins
 type: guide
 order: 16
 ---

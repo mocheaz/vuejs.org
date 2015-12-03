@@ -1,5 +1,5 @@
 ---
-title: Data Binding Syntax
+#Data Binding Syntax
 type: guide
 order: 4
 ---
