@@ -1,13 +1,23 @@
-# vuejs.org
+# Index
 
-This site is built with [hexo](http://hexo.io/). Site content is written in Markdown format located in `src`. Pull requests welcome!
-
-## Developing
-
-Start a dev server at `localhost:4000`:
-
-```
-$ npm install -g hexo-cli
-$ npm install
-$ hexo server
-```
+1. [API](src/api/index.md)
+1. [Application](/src/guide/application.md)
+1. [class-and-Style](/src/guide/class-and-style.md)
+1. [Comparison](/src/guide/comparison.md)
+1. [Components](/src/guide/components.md)
+1. [Computed](/src/guide/computed.md)
+1. [Conditional](/src/guide/conditional.md)
+1. [custom-Directive](/src/guide/custom-directive.md)
+1. [custom-Filter](/src/guide/custom-filter.md)
+1. [Events](/src/guide/events.md)
+1. [Forms](/src/guide/forms.md)
+1. [Index](/src/guide/index.md)
+1. [Installation](/src/guide/installation.md)
+1. [Instance](/src/guide/instance.md)
+1. [List](/src/guide/list.md)
+1. [Mixins](/src/guide/mixins.md)
+1. [Overview](/src/guide/overview.md)
+1. [Plugins](/src/guide/plugins.md)
+1. [Reactivity](/src/guide/reactivity.md)
+1. [Syntax](/src/guide/syntax.md)
+1. [Transitions](/src/guide/transitions.md)
