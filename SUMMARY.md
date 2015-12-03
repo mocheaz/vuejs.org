@@ -1,4 +1,3 @@
 # Summary
 
-* [API](api.md)
 
